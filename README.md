@@ -2,7 +2,7 @@
 
 # Testimonial Card - GreatFrontEnd Projects Challenge
 
-This project, a simple Testimonial Card rendered according to the design specifications listed in the provided Figma file, came from [GreatFrontEnd project](https://www.greatfrontend.com/projects/challenges/testimonial-card). The project rules allowed for choosing your own tech stack, so I used it as an opportuity to create my first TailwindsCSS project.
+This project, a simple Testimonial Card rendered according to the design specifications listed in the provided Figma file, came from [GreatFrontEnd project](https://www.greatfrontend.com/projects/challenges/testimonial-card). The project rules allowed for choosing your own tech stack, so I used it as an opportunity to create my first TailwindsCSS project.
 
 ## Project Brief and Requirements
 
@@ -38,4 +38,4 @@ Dark Mode - no design specifications were given for a Dark Mode version so I cre
 |:-------------:|:--------------:|:------------:|:-----------:|
 | Desktop     |![Screenshot of Figma Design for Desktop-Light version](/designs/figma-desktop-design-scale-dwn.png) | ![Screenshot of Desktop version in Light Mode](/img/Testimonial-Card-Light.png) | ![Screenshot of Desktop version in Dark Mode](/img/Testimonial-Card-Dark.png) |
 | Tablet      | ![Screenshot of Figma Design for tablet-Light version](/designs/figma-tablet-design.png)| ![Screenshot of Tablet version in Light Mode](/img/screenshot-tablet-light.png) | ![Screenshot of Tablet version in Dark Mode](/img/screenshot-tablet-dark.png) |
-| Mobile      | ![Screenshot of Figma Design for mobile-Light version](/designs/figma-mobile-design.png) | ![Sceenshot of Mobile version in Light Mode](/img/screenshot-mobile-light.png) |![Screenshot of Mobile version in Dark Mode](/img/screenshot-mobile-dark.png)     |
+| Mobile      | ![Screenshot of Figma Design for mobile-Light version](/designs/figma-mobile-design.png) | ![Screenshot of Mobile version in Light Mode](/img/screenshot-mobile-light.png) |![Screenshot of Mobile version in Dark Mode](/img/screenshot-mobile-dark.png)     |
