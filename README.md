@@ -31,8 +31,11 @@ Dark Mode - no design specifications were given for a Dark Mode version so I cre
 
 ## Screenshots
 
-| Figma Design Spec                                                                                    | HTML                                                                           | HTML Dark                                                                     |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| ![Screenshot of Figma Design for Desktop-Light version](/designs/figma-desktop-design-scale-dwn.png) | ![Sceenshot of Desktop version in Light Mode](/img/Testimonial-Card-Light.png) | ![Screenshot of Desktop version in Dark Mode](/img/Testimonial-Card-Dark.png) |
-| ![Screenshot of Figma Design for tablet-Light version](/designs/figma-tablet-design.png)             | ![Sceenshot of Tablet version in Light Mode](/img/screenshot-tablet-light.png) | ![Screenshot of Tablet version in Dark Mode](/img/screenshot-tablet-dark.png) |
-| ![Screenshot of Figma Design for mobile-Light version](/designs/figma-mobile-design.png)             | ![Sceenshot of Mobile version in Light Mode](/img/screenshot-mobile-light.png) | ![Screenshot of Mobile version in Dark Mode](/img/screenshot-mobile-dark.png) |
+
+
+
+| Screen Size | Figma Design | Light Mode | Dark Mode |
+|:-------------:|:--------------:|:------------:|:-----------:|
+| Desktop     |![Screenshot of Figma Design for Desktop-Light version](/designs/figma-desktop-design-scale-dwn.png) | ![Screenshot of Desktop version in Light Mode](/img/Testimonial-Card-Light.png) | ![Screenshot of Desktop version in Dark Mode](/img/Testimonial-Card-Dark.png) |
+| Tablet      | ![Screenshot of Figma Design for tablet-Light version](/designs/figma-tablet-design.png)| ![Screenshot of Tablet version in Light Mode](/img/screenshot-tablet-light.png) | ![Screenshot of Tablet version in Dark Mode](/img/screenshot-tablet-dark.png) |
+| Mobile      | ![Screenshot of Figma Design for mobile-Light version](/designs/figma-mobile-design.png) | ![Sceenshot of Mobile version in Light Mode](/img/screenshot-mobile-light.png) |![Screenshot of Mobile version in Dark Mode](/img/screenshot-mobile-dark.png)     |
